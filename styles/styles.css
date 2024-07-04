@@ -1,0 +1,26 @@
+h2{
+   color: aquamarine;
+   background-color: tomato;
+   padding: 10px;
+   width: 250px;
+   
+   
+}
+h2{
+    border: 10px;
+    border-radius: 10px;
+}
+p{
+    background-color: aquamarine;
+    border: 10px;
+    padding:10px
+     ;
+    
+}
+button{
+    background-color: purple;
+    color: aquamarine;
+    
+    border-radius: 5px;
+    padding: 5px;
+}
